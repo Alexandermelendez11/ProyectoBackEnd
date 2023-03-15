@@ -1,0 +1,12 @@
+{
+  "name": "proyectobackend",
+  "version": "1.0.0",
+  "description": "newProyect",
+  "main": "proyectoBackEnd.js",
+  "scripts": {
+    "test": "node proyectoBackEnd.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
